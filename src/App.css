@@ -1,0 +1,110 @@
+.App {
+    text-align: center;
+    background-color: black;
+    min-width: 380mm;
+}
+
+.App-logo {
+    height: 50px;
+    margin-left: 20px;
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+.FundoBranco {
+    color: black;
+    background-color: white;
+}
+
+.FundoPreto {
+    color: white;
+    background-color: black;
+}
+
+.IconeBotao {
+    width: 20px;
+    height: 20px;
+}
+
+.FonteLogoDirNegrito {
+    margin: 0;
+    margin-bottom: 8px;
+    text-align: left;
+    font-size: small;
+    font-weight: bold;
+    color: #F8961B;
+}
+
+.FonteTitulos {
+    margin: 0;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: medium;
+    font-weight: normal;
+    color: black;
+}
+
+.FontePrompts {
+    margin: 0;
+    margin-bottom: 8px;
+    text-align: left;
+    font-size: small;
+    font-weight: normal;
+    color: black;
+}
+
+.FonteDicas {
+    margin: 0;
+    text-align: left;
+    font-size: x-small;
+    font-weight: normal;
+    color: black;
+}
+
+.FonteAnuncio {
+    margin: 0;
+    margin-bottom: 8px;
+    text-align: left;
+    font-size: small;
+    font-weight: bold;
+    color: dimgray;
+}
+
+.FonteInfosGray {
+    margin: 0;
+    margin-bottom: 8px;
+    text-align: left;
+    font-size: small;
+    font-weight: bold;
+    color: gray;
+}
+
+.IconeLista {
+    width: 20px;
+    height: 20px;
+    margin-bottom: 1px;
+}
+
+.IconeAnuncio {
+    width: 26px;
+    height: 26px;
+}
+
+#CtrlCaixaTexto {
+    color: dimgrey;
+    background-color: white;
+    margin: 12px 0px 12px 8px;
+    height: 5px;
+}
+
+#CtrlFundoPreto {
+    color: white;
+    background-color: black;
+}
+
+#CtrlFundoBranco {
+    background-color: white;
+}
+
